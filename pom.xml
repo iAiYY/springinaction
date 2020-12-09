@@ -18,7 +18,7 @@
         <dependency>
             <groupId>org.springframework</groupId>
             <artifactId>spring-webmvc</artifactId>
-            <version>3.2.18.RELEASE</version>
+            <version>4.0.7.RELEASE</version>
         </dependency>
         <!-- 引入该项，否则启动后 jsp 文件会报错 -->
         <dependency>
